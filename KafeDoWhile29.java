@@ -23,6 +23,6 @@ public class KafeDoWhile29 {
             System.out.println("Total yang harus di bayar: Rp " + totalHarga);
             sc.nextLine();
         } while (true);
-    System.out.println("semua transaksi selesai");
+    System.out.println("semua transaksi selesai.");
     }
 }
